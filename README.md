@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Meet Ball <a href="https://github.com/julienLeMee/meet_ball" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/meetball/image/upload/v1661456941/Meet_Ball_ca6svs.png" alt="rails" width="40" height="40"/></a>
+- 🔭 I’m currently working on Building my Personal Profile Website www.jamiechau.com
 - 🌱 I’m currently learning React & Node JS
 
 
